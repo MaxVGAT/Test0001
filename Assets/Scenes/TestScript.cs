@@ -4,13 +4,17 @@ using UnityEngine;
 
 public class TestScript : MonoBehaviour
 {
-    // Start is called before the first frame update
+    /// <summary>
+    /// Called once before the first frame update in Unity's lifecycle.
+    /// </summary>
     void Start()
     {
         
     }
 
-    // Update is called once per frame
+    /// <summary>
+    /// Called once per frame to handle frame-specific logic.
+    /// </summary>
     void Update()
     {
         
